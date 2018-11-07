@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "141178621318",
+    "firebase_url": "https://fcmpush-820c1.firebaseio.com",
+    "project_id": "fcmpush-820c1",
+    "storage_bucket": "fcmpush-820c1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:141178621318:android:ad080d1f31fdde50",
+        "android_client_info": {
+          "package_name": "com.nitolmotorsltd.fcmpush"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "141178621318-qtslags8doq3ajl9t483mnqv4ma7va34.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nitolmotorsltd.fcmpush",
+            "certificate_hash": "5ff3440fa027a90ed92082616ad046ed2661a35e"
+          }
+        },
+        {
+          "client_id": "141178621318-5lrtojrvq50orial61uhal7v4g840qrg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDmkb4-0Fo_7QD7hrn4q9ajYa7d9HSl-Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "141178621318-5lrtojrvq50orial61uhal7v4g840qrg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

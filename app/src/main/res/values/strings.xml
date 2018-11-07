@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">FCMPush</string>
+
+    <string name="notifications_admin_channel_name">notifications_admin_channel_name</string>
+    <string name="notifications_admin_channel_description">notifications_admin_channel_description</string>
+</resources>
